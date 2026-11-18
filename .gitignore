@@ -1,0 +1,14 @@
+# Java build output
+out/
+build/
+target/
+*.class
+
+# Generated transaction logs (logs/.gitkeep preserves the folder)
+logs/*.log
+
+# IDE and OS files
+.idea/
+*.iml
+.DS_Store
+Thumbs.db

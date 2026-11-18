@@ -1,0 +1,17 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Banking Race Condition Demo",
+      "request": "launch",
+      "mainClass": "bankingrace.Main"
+    },
+    {
+      "type": "java",
+      "name": "Concurrency Checks",
+      "request": "launch",
+      "mainClass": "bankingrace.ConcurrencyTests"
+    }
+  ]
+}
